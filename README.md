@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&background=FFFFFF00&width=435&lines=Hello+World!;Welcome+to+my+profile;Explore+my+repositories" alt="Typing SVG" />
 </p>
 
-## 🚀 Featured Projects
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edry11&show_icons=true&theme=highcontrast" alt="edry11's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edry11&layout=compact&theme=highcontrast" alt="Top Languages" />
