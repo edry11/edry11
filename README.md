@@ -37,6 +37,23 @@
 
 ![Footer](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/72695b72-0993-4dbd-9616-1128111b2c5a/dfqyrkk-e63273bc-3b62-4b6e-a61a-0c4aad72d17b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcyNjk1YjcyLTA5OTMtNGRiZC05NjE2LTExMjgxMTFiMmM1YVwvZGZxeXJray1lNjMyNzNiYy0zYjYyLTRiNmUtYTYxYS0wYzRhYWQ3MmQxN2IuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GZqFrQuiko8Bd6BXyx0xYbrz8WLOVHr3jHkcshbTppw)
 
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Keep+scrolling...;It+never+ends!;Check+out+my+projects!)](https://git.io/typing-svg)
+
+<!-- Repeat content to create a long scroll -->
+
+### More Content Below
+
+Keep scrolling down to see more exciting content...
+
+<!-- Repeat lines to create a long loop effect -->
+
+\* * *
+\* * *
+\* * *
+\* * *
+
 \* * *
 \* * *
 \* * *
